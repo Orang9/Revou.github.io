@@ -1,0 +1,104 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+    background-color: black;
+    color: white;
+}
+
+header {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+    text-align: center;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+h2 {
+    font-weight: 200;
+    font-size: 45px;
+    margin: 20px;
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    border-radius: 20px;
+    padding: 6px;
+
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    margin: 5px 0px;
+    padding: 5px 0px;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 40px;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.luas {
+    font-weight: 400px;
+    font-size: 20px;
+    margin: 5px 5px;
+    padding: 5px 5px;
+    line-height: 40px;
+}
+
+.keliling {
+    font-weight: 400px;
+    font-size: 20px;
+    margin: 5px 5px;
+    padding: 5px 5px;
+    line-height: 40px;
+}
+
+.element {
+    position: relative;
+}
+
+.element input {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid;
+    height: 25px;
+}
+
+.btn {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px 10px;
+}
+
+#output1 {
+    font-weight: 400px;
+    font-size: 20px;
+    margin: 5px 5px;
+    padding: 5px 5px;
+    line-height: 40px;
+}
+
+#output2 {
+    font-weight: 400px;
+    font-size: 20px;
+    margin: 5px 5px;
+    padding: 5px 5px;
+    line-height: 40px;
+}
